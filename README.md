@@ -29,3 +29,21 @@ We will use two data set in this report.
 2. [Ethereum Fraud Dataset](https://www.kaggle.com/datasets/gescobero/ethereum-fraud-dataset)
 
 We will analyze these two datasets both individually and in combination.
+
+
+## Requirements
+
+1. Python >= 3.5
+2. pandas >= 0.24.2
+3. matplotlib >= 3.0.3
+4. seaborn >= 0.9.1
+5. numpy >= 1.18.5
+6. notebook >= 5.7.4
+
+- Run `pip install -r requirements.txt` or `pip3 install -r requirements.txt`
+
+## Notebooks
+
+1. Ethereum Fraud Detection Dataset [GitHub Viewer](https://github.com/sepandhaghighi/Data-Visualization-Metamorphosis/blob/notebooks/1.ipynb) | [NB Viewer]()
+2. Ethereum Fraud Dataset [GitHub Viewer](https://github.com/sepandhaghighi/Data-Visualization-Metamorphosis/blob/notebooks/2.ipynb) | [NB Viewer]()
+3. Merged Dataset [GitHub Viewer](https://github.com/sepandhaghighi/Data-Visualization-Metamorphosis/blob/notebooks/3.ipynb) | [NB Viewer]()
