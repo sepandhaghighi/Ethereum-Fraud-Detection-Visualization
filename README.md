@@ -44,6 +44,28 @@ We will analyze these two datasets both individually and in combination.
 
 ## Notebooks
 
-1. Ethereum Fraud Detection Dataset [GitHub Viewer](https://github.com/sepandhaghighi/Data-Visualization-Metamorphosis/blob/notebooks/1.ipynb) | [NB Viewer]()
-2. Ethereum Fraud Dataset [GitHub Viewer](https://github.com/sepandhaghighi/Data-Visualization-Metamorphosis/blob/notebooks/2.ipynb) | [NB Viewer]()
-3. Merged Dataset [GitHub Viewer](https://github.com/sepandhaghighi/Data-Visualization-Metamorphosis/blob/notebooks/3.ipynb) | [NB Viewer]()
+<table style="text-align:center;border-collapse: collapse;">
+	<th>
+		<td>GitHub Viewer</td>
+		<td>NB Viewer</td>
+		<td>Google Colab</td>
+	</th>
+	<tr>
+		<td style="text-align:left;">Ethereum Fraud Detection Dataset</td>
+		<td><a href="https://github.com/sepandhaghighi/Data-Visualization-Metamorphosis/blob/notebooks/1.ipynb">Link</a></td>
+		<td><a href="">Link</a></td>
+		<td><a href="">Link</a></td>
+	</tr>
+	<tr>
+		<td style="text-align:left;">Ethereum Fraud Dataset</td>
+		<td><a href="https://github.com/sepandhaghighi/Data-Visualization-Metamorphosis/blob/notebooks/2.ipynb">Link</a></td>
+		<td><a href="">Link</a></td>
+		<td><a href="">Link</a></td>
+	</tr>
+	<tr>
+		<td style="text-align:left;">Merged Dataset</td>
+		<td><a href="https://github.com/sepandhaghighi/Data-Visualization-Metamorphosis/blob/notebooks/3.ipynb">Link</a></td>
+		<td><a href="">Link</a></td>
+		<td><a href="">Link</a></td>
+	</tr>
+</table>
