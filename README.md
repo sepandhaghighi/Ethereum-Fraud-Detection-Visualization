@@ -69,3 +69,30 @@ We will analyze these two datasets both individually and in combination.
 		<td><a href="https://colab.research.google.com/github/sepandhaghighi/Data-Visualization-Metamorphosis/blob/master">Link</a></td>
 	</tr>
 </table>
+
+## Visualization Example
+
+Here you can see a limited number of examples. The full version of this visualization and all codes can be seen in the notebooks!
+
+<div style="text-align:center;">
+<img src="images/pie1.png">
+<p>Fig1. Most Received Token Type Pie Diagram (Fraud Cases)</p>
+<hr/>
+
+<img src="images/pie2.png">
+<p>Fig2. Data Distribution Pie Diagram</p>
+<hr/>
+
+<img src="images/hist.png">
+<p>Fig3. Received Transactions Different Statistics Comparing</p>
+<hr/>
+
+<img src="images/corr.png">
+<p>Fig4. Features Correlation Diagram</p>
+<hr/>
+
+<img src="images/box.png">
+<p>Fig5. Features Distribution Diagram</p>
+</div>
+
+
