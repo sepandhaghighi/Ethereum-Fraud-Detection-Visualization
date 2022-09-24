@@ -52,20 +52,20 @@ We will analyze these two datasets both individually and in combination.
 	</th>
 	<tr>
 		<td style="text-align:left;">Ethereum Fraud Detection Dataset</td>
-		<td><a href="https://github.com/sepandhaghighi/Data-Visualization-Metamorphosis/blob/notebooks/1.ipynb">Link</a></td>
-		<td><a href="">Link</a></td>
-		<td><a href="">Link</a></td>
+		<td><a href="https://github.com/sepandhaghighi/Data-Visualization-Metamorphosis/blob/master/1.ipynb">Link</a></td>
+		<td><a href="https://nbviewer.org/github/sepandhaghighi/Data-Visualization-Metamorphosis/blob/master/1.ipynb">Link</a></td>
+		<td><a href="https://colab.research.google.com/github/sepandhaghighi/Data-Visualization-Metamorphosis/blob/master">Link</a></td>
 	</tr>
 	<tr>
 		<td style="text-align:left;">Ethereum Fraud Dataset</td>
-		<td><a href="https://github.com/sepandhaghighi/Data-Visualization-Metamorphosis/blob/notebooks/2.ipynb">Link</a></td>
-		<td><a href="">Link</a></td>
-		<td><a href="">Link</a></td>
+		<td><a href="https://github.com/sepandhaghighi/Data-Visualization-Metamorphosis/blob/master/2.ipynb">Link</a></td>
+		<td><a href="https://nbviewer.org/github/sepandhaghighi/Data-Visualization-Metamorphosis/blob/master/2.ipynb">Link</a></td>
+		<td><a href="https://colab.research.google.com/github/sepandhaghighi/Data-Visualization-Metamorphosis/blob/master">Link</a></td>
 	</tr>
 	<tr>
 		<td style="text-align:left;">Merged Dataset</td>
-		<td><a href="https://github.com/sepandhaghighi/Data-Visualization-Metamorphosis/blob/notebooks/3.ipynb">Link</a></td>
-		<td><a href="">Link</a></td>
-		<td><a href="">Link</a></td>
+		<td><a href="https://github.com/sepandhaghighi/Data-Visualization-Metamorphosis/blob/master/3.ipynb">Link</a></td>
+		<td><a href="https://nbviewer.org/github/sepandhaghighi/Data-Visualization-Metamorphosis/blob/master/3.ipynb">Link</a></td>
+		<td><a href="https://colab.research.google.com/github/sepandhaghighi/Data-Visualization-Metamorphosis/blob/master">Link</a></td>
 	</tr>
 </table>
