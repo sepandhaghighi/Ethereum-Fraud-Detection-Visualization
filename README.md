@@ -44,7 +44,7 @@ We will analyze these two datasets both individually and in combination.
 
 ## Notebooks
 
-<table style="text-align:center;border-collapse: collapse;">
+<table style="text-align:center;border-collapse:collapse;">
 	<th>
 		<td>GitHub Viewer</td>
 		<td>NB Viewer</td>
@@ -76,11 +76,11 @@ Here you can see a limited number of examples. The full version of this visualiz
 
 <div style="text-align:center;" align="center">
 <img src="images/pie1.png">
-<p>Fig1. Most Received Token Type Pie Diagram (Fraud Cases)</p>
+<p>Fig1. Data Distribution Pie Diagram</p>
 <hr/>
 
 <img src="images/pie2.png">
-<p>Fig2. Data Distribution Pie Diagram</p>
+<p>Fig2. Most Received Token Type Pie Diagram (Fraud Cases)</p>
 <hr/>
 
 <img src="images/hist.png">
