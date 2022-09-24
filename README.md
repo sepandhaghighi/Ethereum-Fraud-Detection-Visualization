@@ -74,7 +74,7 @@ We will analyze these two datasets both individually and in combination.
 
 Here you can see a limited number of examples. The full version of this visualization and all codes can be seen in the notebooks!
 
-<div style="text-align:center;">
+<div style="text-align:center;" align="center">
 <img src="images/pie1.png">
 <p>Fig1. Most Received Token Type Pie Diagram (Fraud Cases)</p>
 <hr/>
