@@ -72,21 +72,21 @@ We will analyze these two datasets both individually and in combination.
 		</th>
 		<tr>
 			<td style="text-align:left;">Ethereum Fraud Detection Dataset</td>
-			<td>39</td>
+			<td>37</td>
 			<td>9816</td>
 			<td>2179</td>
 			<td>7637</td>
 		</tr>
 		<tr>
 			<td style="text-align:left;">Ethereum Fraud Dataset</td>
-			<td>33</td>
+			<td>31</td>
 			<td>12146</td>
 			<td>5150</td>
 			<td>6996</td>
 		</tr>
 		<tr>
 			<td style="text-align:left;">Merged Dataset</td>
-			<td>19</td>
+			<td>17</td>
 			<td>20302</td>
 			<td>5675</td>
 			<td>14627</td>
