@@ -12,6 +12,10 @@
 
 Fraud detection is a process that detects and prevents fraudsters from obtaining money or property through false means. It is a set of activities undertaken to detect and block the attempt of fraudsters from obtaining money or property fraudulently. Fraud is an expensive and complicated problem. To detect and investigate it effectively, you need to see connections – between people, accounts, transactions, and dates – and understand complex sequences of events. That means analyzing a lot of data.
 Fraud detection is prevalent across banking, insurance, medical, government, and public sectors, as well as in law enforcement agencies.
+<<<<<<< HEAD
+=======
+Fraud is typically involves multiple repeated methods, making searching for patterns a general focus for fraud detection. For example, data analysts can prevent insurance fraud by making algorithms to detect patterns and anomalies.
+>>>>>>> 2cd585ee661346dc437b45f983fa21f48cccf50c
 
 Advantages of Visualizations in Fraud Detection:
 
@@ -72,21 +76,21 @@ We will analyze these two datasets both individually and in combination.
 		</th>
 		<tr>
 			<td style="text-align:left;">Ethereum Fraud Detection Dataset</td>
-			<td>37</td>
+			<td>39</td>
 			<td>9816</td>
 			<td>2179</td>
 			<td>7637</td>
 		</tr>
 		<tr>
 			<td style="text-align:left;">Ethereum Fraud Dataset</td>
-			<td>31</td>
+			<td>33</td>
 			<td>12146</td>
 			<td>5150</td>
 			<td>6996</td>
 		</tr>
 		<tr>
 			<td style="text-align:left;">Merged Dataset</td>
-			<td>17</td>
+			<td>19</td>
 			<td>20302</td>
 			<td>5675</td>
 			<td>14627</td>
