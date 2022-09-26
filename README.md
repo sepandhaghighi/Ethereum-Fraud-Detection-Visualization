@@ -12,7 +12,6 @@
 
 Fraud detection is a process that detects and prevents fraudsters from obtaining money or property through false means. It is a set of activities undertaken to detect and block the attempt of fraudsters from obtaining money or property fraudulently. Fraud is an expensive and complicated problem. To detect and investigate it effectively, you need to see connections – between people, accounts, transactions, and dates – and understand complex sequences of events. That means analyzing a lot of data.
 Fraud detection is prevalent across banking, insurance, medical, government, and public sectors, as well as in law enforcement agencies.
-Fraud is typically involves multiple repeated methods, making searching for patterns a general focus for fraud detection. For example, data analysts can prevent insurance fraud by making algorithms to detect patterns and anomalies.
 
 Advantages of Visualizations in Fraud Detection:
 
@@ -26,7 +25,7 @@ Since there exist a lot of different types of fraud schemes, it is clear that th
 
 At first, it must not limit to a specific amount or type of data since the volume of the investigated data grows exponentially and comes from different sources. In some cases, it is also necessary to be able to support and visualize time-dependent data.
 
-A sophisticated visualization should also provide the means for arranging the elements with multiple ways on the screen, i.e., using arrangements that reveal clusters or others that highlight hierarchical structures. Additionally, more sophisticated graph analysis algorithms should be supported for the detection of fraud schemes, e.g., cycle detection, or shortest paths.
+A sophisticated visualization should also provide the means for arranging the elements in multiple ways on the screen, i.e., using arrangements that reveal clusters or others that highlight hierarchical structures. Additionally, more sophisticated graph analysis algorithms should be supported for the detection of fraud schemes, e.g., cycle detection, or shortest paths.
 
 Regarding the representation of the elements of the visualization, an auditor should be able to customize the look and feel of the graph elements based on his/her needs and be able to display additional properties of the graph elements. Finally, interaction is one of the essential operations when visualizing fraud data since it allows the auditor to explore its dataset.
 
@@ -73,21 +72,21 @@ We will analyze these two datasets both individually and in combination.
 		</th>
 		<tr>
 			<td style="text-align:left;">Ethereum Fraud Detection Dataset</td>
-			<td>39</td>
+			<td>37</td>
 			<td>9816</td>
 			<td>2179</td>
 			<td>7637</td>
 		</tr>
 		<tr>
 			<td style="text-align:left;">Ethereum Fraud Dataset</td>
-			<td>33</td>
+			<td>31</td>
 			<td>12146</td>
 			<td>5150</td>
 			<td>6996</td>
 		</tr>
 		<tr>
 			<td style="text-align:left;">Merged Dataset</td>
-			<td>19</td>
+			<td>17</td>
 			<td>20302</td>
 			<td>5675</td>
 			<td>14627</td>
