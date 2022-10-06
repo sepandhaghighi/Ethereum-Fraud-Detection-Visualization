@@ -1,4 +1,5 @@
-# Data Visualization Bounty
+# Ethereum Fraud Detection Visualization
+
 
 --------------
 
@@ -8,12 +9,12 @@
 
 --------------
 
-## Visualization Idea
+## Overview
 
 Fraud detection is a process that detects and prevents fraudsters from obtaining money or property through false means. It is a set of activities undertaken to detect and block the attempt of fraudsters from obtaining money or property fraudulently. Fraud is an expensive and complicated problem. To detect and investigate it effectively, you need to see connections – between people, accounts, transactions, and dates – and understand complex sequences of events. That means analyzing a lot of data.
 Fraud detection is prevalent across banking, insurance, medical, government, and public sectors, as well as in law enforcement agencies.
 
-Advantages of Visualizations in Fraud Detection:
+**Advantages of Visualizations in Fraud Detection:**
 
 The detection of fraud schemes requires an investigation of a vast amount of data that stems from many different anti-fraud systems with varying types of data. The auditors have to combine all the data and use statistical methods to uncover suspicious claims, which is time-consuming and inefficient in most cases.
 
@@ -30,23 +31,24 @@ A sophisticated visualization should also provide the means for arranging the el
 Regarding the representation of the elements of the visualization, an auditor should be able to customize the look and feel of the graph elements based on his/her needs and be able to display additional properties of the graph elements. Finally, interaction is one of the essential operations when visualizing fraud data since it allows the auditor to explore its dataset.
 
 Fraud detection can be separated by the use of statistical data analysis techniques or artificial intelligence. 
-Statistical data analysis techniques include:
+
+**Statistical data analysis techniques include:**
 
 1. calculating statistical parameters
 2. regression analysis
 3. probability distributions and models
 4. data matching
 
-AI techniques used to detect fraud include:
+**AI techniques used to detect fraud include:**
 
 1. Data mining classifies, groups and segments data to search through millions of transactions to find patterns and detect fraud.
 2. Neural networks learn suspicious-looking patterns and use those patterns to detect them further.
 3. Machine learning automatically identifies characteristics found in fraud.
 4. Pattern recognition detects classes, clusters and patterns of suspicious behavior.
 
-Cryptocurrency fraud analysts look at huge volumes of historical data spanning long time periods. Our main idea in this [hackathon](https://gitcoin.co/issue/29302) is to comprehensively examine and visualize the available data related to fraud detection in the Ethereum network.
+Cryptocurrency fraud analysts look at huge volumes of historical data spanning long time periods. Our main idea is to comprehensively examine and visualize the available data related to fraud detection in the Ethereum network.
 
-Our suggested steps to visualize data:
+**Our suggested steps to visualize data:**
 
 1. Downloading and collecting data
 2. Data cleaning
@@ -118,21 +120,21 @@ We will analyze these two datasets both individually and in combination.
 		</th>
 		<tr>
 			<td style="text-align:left;">Ethereum Fraud Detection Dataset</td>
-			<td><a href="https://github.com/sepandhaghighi/Data-Visualization-Metamorphosis/blob/master/1.ipynb">Link</a></td>
-			<td><a href="https://nbviewer.org/github/sepandhaghighi/Data-Visualization-Metamorphosis/blob/master/1.ipynb">Link</a></td>
-			<td><a href="https://colab.research.google.com/github/sepandhaghighi/Data-Visualization-Metamorphosis/blob/master">Link</a></td>
+			<td><a href="https://github.com/sepandhaghighi/Ethereum-Fraud-Detection-Visualization/blob/master/1.ipynb">Link</a></td>
+			<td><a href="https://nbviewer.org/github/sepandhaghighi/Ethereum-Fraud-Detection-Visualization/blob/master/1.ipynb">Link</a></td>
+			<td><a href="https://colab.research.google.com/github/sepandhaghighi/Ethereum-Fraud-Detection-Visualization/blob/master">Link</a></td>
 		</tr>
 		<tr>
 			<td style="text-align:left;">Ethereum Fraud Dataset</td>
-			<td><a href="https://github.com/sepandhaghighi/Data-Visualization-Metamorphosis/blob/master/2.ipynb">Link</a></td>
-			<td><a href="https://nbviewer.org/github/sepandhaghighi/Data-Visualization-Metamorphosis/blob/master/2.ipynb">Link</a></td>
-			<td><a href="https://colab.research.google.com/github/sepandhaghighi/Data-Visualization-Metamorphosis/blob/master">Link</a></td>
+			<td><a href="https://github.com/sepandhaghighi/Ethereum-Fraud-Detection-Visualization/blob/master/2.ipynb">Link</a></td>
+			<td><a href="https://nbviewer.org/github/sepandhaghighi/Ethereum-Fraud-Detection-Visualization/blob/master/2.ipynb">Link</a></td>
+			<td><a href="https://colab.research.google.com/github/sepandhaghighi/Ethereum-Fraud-Detection-Visualization/blob/master">Link</a></td>
 		</tr>
 		<tr>
 			<td style="text-align:left;">Merged Dataset</td>
-			<td><a href="https://github.com/sepandhaghighi/Data-Visualization-Metamorphosis/blob/master/3.ipynb">Link</a></td>
-			<td><a href="https://nbviewer.org/github/sepandhaghighi/Data-Visualization-Metamorphosis/blob/master/3.ipynb">Link</a></td>
-			<td><a href="https://colab.research.google.com/github/sepandhaghighi/Data-Visualization-Metamorphosis/blob/master">Link</a></td>
+			<td><a href="https://github.com/sepandhaghighi/Ethereum-Fraud-Detection-Visualization/blob/master/3.ipynb">Link</a></td>
+			<td><a href="https://nbviewer.org/github/sepandhaghighi/Ethereum-Fraud-Detection-Visualization/blob/master/3.ipynb">Link</a></td>
+			<td><a href="https://colab.research.google.com/github/sepandhaghighi/Ethereum-Fraud-Detection-Visualization/blob/master">Link</a></td>
 		</tr>
 	</table>
 	<p>Table2. Notebooks</p>
