@@ -46,7 +46,7 @@ Fraud detection can be separated by the use of statistical data analysis techniq
 3. Machine learning automatically identifies characteristics found in fraud.
 4. Pattern recognition detects classes, clusters and patterns of suspicious behavior.
 
-Cryptocurrency fraud analysts look at huge volumes of historical data spanning long time periods. Our main idea here is to comprehensively examine and visualize the available data related to fraud detection in the Ethereum network.
+Cryptocurrency fraud analysts look at huge volumes of historical data spanning long time periods. Our main idea is to comprehensively examine and visualize the available data related to fraud detection in the Ethereum network.
 
 **Our suggested steps to visualize data:**
 
